@@ -272,7 +272,7 @@ class _homemageState extends State<homemage> {
             height: Width * .5,
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(20),
-              color: Color.fromARGB(255, 187, 255, 0),
+              color: const Color.fromARGB(255, 255, 64, 64),
             ),
             child: Container(
               width: 400,
